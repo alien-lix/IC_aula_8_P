@@ -147,3 +147,5 @@ Combina todos os conceitos:
 - Verifica frequentemente o estado do repositório (`git status`).
 - Usa `git log --oneline --graph` para visualizar o histórico.
 - Mantém o repositório atualizado com `git pull`.
+
+:p 
