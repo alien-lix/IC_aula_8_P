@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d472c95f18e2540763632a854e80489602fca87ba43bcaeb344cd5665fdcd055
-size 376
+
+# Dados do Aluno
+
+- **Nome:** Felix Chagas 
+- **Número:** a22 607 642   
+- **Turma:** Videojogos T1 
+
+---
+
+## Alterações realizadas
+
+Após clonar o repositório eu fiz alterações nos dois ficheiros de markdown.
+
+---
+
+## Observações (opcional)
+
+Por algum motivo o git attributes também tinha os ficheiros .md marcados como lfs... eu tirei isso, não sei se era suposto.
