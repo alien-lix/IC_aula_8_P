@@ -149,3 +149,5 @@ Combina todos os conceitos:
 - Mantém o repositório atualizado com `git pull`.
 
 :p 
+
+XD
